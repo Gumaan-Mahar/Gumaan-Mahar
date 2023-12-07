@@ -2,8 +2,9 @@
 
 <img  src="/divider.gif">
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gumaan-mahar/)[<img src="https://img.shields.io/badge/gmail-%23EE0000.svg?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:gumaanmahar@gmail.com) 
-![](https://komarev.com/ghpvc/?username=Gumaan-Mahar&color=blue&style=for-the-badge)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gumaan-mahar/)
+ [<img src="https://img.shields.io/badge/gmail-%23EE0000.svg?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:gumaanmahar@gmail.com) 
+ ![](https://komarev.com/ghpvc/?username=Gumaan-Mahar&color=blue&style=for-the-badge)
 
 <p>
 
