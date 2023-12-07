@@ -3,9 +3,9 @@
 <img  src="/divider.gif">
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gumaan-mahar/)[<img src="https://img.shields.io/badge/gmail-%23EE0000.svg?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:gumaanmahar@gmail.com) 
-(![](https://komarev.com/ghpvc/?username=Gumaan-Mahar&color=blue))
+![](https://komarev.com/ghpvc/?username=Gumaan-Mahar&color=blue)
 
-<!-- ![trophy](https://github-profile-trophy.vercel.app/?username=Gumaan-Mahar&theme=gruvbox) -->
+![trophy](https://github-profile-trophy.vercel.app/?username=Gumaan-Mahar&theme=gruvbox)
 <p>
 
 - 🔭 I’m currently working as an Upwork Freelance.
