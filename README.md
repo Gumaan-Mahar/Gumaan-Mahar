@@ -39,14 +39,10 @@
 
 ---
 
-## GitHub Profile Stats 📊✅:
+## My GitHub Profile Stats 📊✅:
 <p align="center"> 
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gumaan-Mahar&show_icons=true&theme=tokyonight&count_private=true" width="445" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gumaan-Mahar&hide=TeX,OpenEdge%20ABL&layout=compact&show_icons=true&theme=tokyonight&count_private=true" alt="Gumaan-Mahar" width="390"/>
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=Gumaan-Mahar&show_icons=true&theme=tokyonight&count_private=true" width="445" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gumaan-Mahar&hide=TeX,OpenEdge%20ABL&layout=compact&show_icons=true&theme=tokyonight&count_private=true" alt="Gumaan-Mahar" width="390"/>
-</p>
 
 <p align="center"> 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gumaan-Mahar&theme=blue-green" />
