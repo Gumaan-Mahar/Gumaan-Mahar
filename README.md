@@ -1,6 +1,6 @@
-![Header](./data/main-display-image.png)
+![Header](./main-display-image.png)
 
-<img  src="data/divider.gif">
+<img  src="/divider.gif">
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gumaan-mahar/)[<img src="https://img.shields.io/badge/gmail-%23EE0000.svg?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:gumaanmahar@gmail.com) 
 ![Visits Badge](![](https://komarev.com/ghpvc/?username=Gumaan-Mahar&color=blue))
