@@ -45,11 +45,11 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gumaan-Mahar&hide=TeX,OpenEdge%20ABL&layout=compact&show_icons=true&theme=tokyonight&count_private=true" alt="Gumaan-Mahar" width="390"/>
 
 <p align="center"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gumaan-Mahar&theme=blue-green" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gumaan-Mahar&theme=algolia" />
 </p>
 
 <p align="center"> 
-   <img src= "https://github-profile-trophy.vercel.app/?username=Gumaan-Mahar&theme=onedark" />
+   <img src= "https://github-profile-trophy.vercel.app/?username=Gumaan-Mahar&theme=algolia" />
 </p>
 
 ---
