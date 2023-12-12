@@ -14,7 +14,6 @@
 - 🔭 Currently working as an Upwork Freelancer.
 - 🌱 Exploring Frontend & Backend functionalities for both Web and Mobile.
 - 🤝 Open to collaboration on exciting projects.
-- 💬 Feel free to ask me anything (within reason) – always here to help.
 - 📫 Reach me at: gumaanmahar@gmail.com
 
 ---
