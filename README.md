@@ -8,7 +8,7 @@
 [![Gmail](https://img.shields.io/badge/gmail-%23EE0000.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:gumaanmahar@gmail.com) 
 ![Profile Views](https://komarev.com/ghpvc/?username=Gumaan-Mahar&color=blue&style=for-the-badge)
 <a href="https://www.buymeacoffee.com/Gumaan_Mahar" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" style="height: 25px; width: auto; border-radius: 0;">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" style="height: 28px; width: auto; border-radius: 0px;">
 </a>
 
 
