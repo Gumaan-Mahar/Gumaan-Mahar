@@ -7,6 +7,9 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gumaan-mahar/)
 [![Gmail](https://img.shields.io/badge/gmail-%23EE0000.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:gumaanmahar@gmail.com) 
 ![Profile Views](https://komarev.com/ghpvc/?username=Gumaan-Mahar&color=blue&style=for-the-badge)
+<a href="https://www.buymeacoffee.com/Gumaan_Mahar" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" style="height: 40px !important; width: 150px !important;" >
+</a>
 
 ---
 
