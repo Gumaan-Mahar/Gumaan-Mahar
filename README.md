@@ -4,10 +4,11 @@
 
 ---
 
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](http://gumaanmahar.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gumaan-mahar/)
 [![Gmail](https://img.shields.io/badge/gmail-%23EE0000.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:gumaanmahar@gmail.com) 
-![Profile Views](https://komarev.com/ghpvc/?username=Gumaan-Mahar&color=blue&style=for-the-badge)
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/Gumaan_Mahar)
+![Profile Views](https://komarev.com/ghpvc/?username=Gumaan-Mahar&color=blue&style=for-the-badge)
 
 ---
 
