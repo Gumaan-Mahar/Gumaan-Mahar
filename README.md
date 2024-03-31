@@ -58,8 +58,8 @@
 ## Featured Projects 🚀:
 
 - [Passtop (Encrypted Password Manager)](https://github.com/Gumaan-Mahar/Passtop)
+- [E-Shop UI](https://github.com/Gumaan-Mahar/e_shop_ui)
 - [E-Commerce-UI](https://github.com/Gumaan-Mahar/e-commerce-ui)
-- [MyNotes Project](https://github.com/Gumaan-Mahar/MyNotes)
 
 ---
 
