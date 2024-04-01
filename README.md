@@ -55,6 +55,8 @@
 
 ---
 
+![Snake animation](https://raw.githubusercontent.com/{Gumaan-Mahar}/{Gumaan-Mahar}/output/github-contribution-grid-snake-dark.svg)
+
 ## Featured Projects 🚀:
 
 - [Passtop (Encrypted Password Manager)](https://github.com/Gumaan-Mahar/Passtop)
